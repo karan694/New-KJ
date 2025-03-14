@@ -3,7 +3,10 @@
 <head>
 <title>Money/Price Example</title>
 <head>
+    <link rel="stylesheet" href="styles.html">
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.js">
+    <link rel="stylesheet" href="https//www.money/price example">
   </head>
 <style>
   .price {
